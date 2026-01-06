@@ -1,7 +1,7 @@
 # 🎓 Course Compass – AI-Based Course Recommendation System
 
 ## 🚀 Live Demo
-🔗https://vercel.com/laksita-ms-projects/course-recommendation
+🔗https://course-recommendation-topaz.vercel.app/
 
 ## 📌 Problem Statement
 Students often struggle to choose the right courses due to a lack of clarity about their skill level and interests. Existing platforms provide generic recommendations without assessing actual skills.
